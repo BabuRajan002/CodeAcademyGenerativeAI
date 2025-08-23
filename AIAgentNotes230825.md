@@ -53,7 +53,7 @@
     *   Stress Testing
 
 ---
-
+![AgenticWorkflow](images/AgenticRAGWorkflow.png)
 
 ## Why Do We Need Agents?
 
