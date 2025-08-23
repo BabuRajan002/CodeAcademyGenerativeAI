@@ -86,7 +86,9 @@
 8.  Reasoning
 
 ---
+## Architecture of AI Agents
 
+![Architecture](images/ArchitectureOfAIAgents.png)
 
 ## How Does the LLM Find Relevant Information?
 
@@ -124,4 +126,5 @@ User Interaction → Intent Recognition → Orchestration → Agents
 
 ## Master Template Multi-Agent Architecture
 
-*(Please insert the master template multi-agent architecture diagram or description here)*
+
+![MasterTemplate](images/MasterTemplate.png)
